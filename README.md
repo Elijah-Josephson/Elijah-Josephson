@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **ttkbootstrap,QT,machine learning and AI**
 
-- 📫 How to reach me **t.me/iliyayo**
-
 - ⚡ Fun fact **I'm currently learning 12 languages on Duolingo!🦉**
 
 <h3 align="left">Connect with me:</h3>
