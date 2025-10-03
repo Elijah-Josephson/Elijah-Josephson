@@ -7,6 +7,8 @@
 
 - ⚡ Fun fact **I'm currently learning 12 languages on Duolingo!🦉**
 
+- 📁 Visit my personal portfolio on : https://elijah-josephson.github.io/Personal-Portfolio
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
